@@ -41,7 +41,7 @@ This is a Document Scanner application designed to detect and scan documents usi
 
 ## 📸 Screenshots
 
-_(Add screenshots here using `![](image-path)` or HTML to showcase your UI)_
+_(Screenshot will be added soon)_
 
 ## 💡 Future Improvements
 
