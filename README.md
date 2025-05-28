@@ -28,7 +28,7 @@ This is a Document Scanner application designed to detect and scan documents usi
     ```
 
 2.  **Install the dependencies:**
-
+ 
     ```bash
     pip install -r requirements.txt
     ```
