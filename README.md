@@ -39,7 +39,7 @@ This is a Document Scanner application designed to detect and scan documents usi
     python scanner_app.py
     ```
 
-## 📸 Screenshots
+## 📸 Screenshots 
 
 _(Screenshot will be added soon)_
 
