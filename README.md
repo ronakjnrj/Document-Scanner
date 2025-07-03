@@ -12,7 +12,7 @@ This is a Document Scanner application designed to detect and scan documents usi
 * **🖱️ Easy-to-use Interface:** Provides a simple GUI for a smooth user experience. 
 
 ## 🛠️ Tech Stack
- 
+  
 * Python
 * OpenCV
 * Tkinter / PyQt (depending on GUI implementation) 
