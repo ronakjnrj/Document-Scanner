@@ -19,7 +19,7 @@ This is a Document Scanner application designed to detect and scan documents usi
 * NumPy
 * Pillow (PIL)
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
 
 1.  **Clone the repository:**
 
