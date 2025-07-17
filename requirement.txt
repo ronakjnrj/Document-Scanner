@@ -1,0 +1,6 @@
+tk
+pillow
+opencv-python
+imutils
+numpy
+scikit-image
