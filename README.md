@@ -8,7 +8,7 @@ This is a Document Scanner application designed to detect and scan documents usi
 * **📐 Automatic Edge Detection:** Detects document boundaries using OpenCV.
 * **🧠 Perspective Correction:** Corrects the document's angle for a professional-looking scan.
 * **🎨 Image Enhancement:** Improves readability with various filters (grayscale, thresholding, etc.). 
-* **📄 Save as PDF or Image:** Exports scanned documents as image files or compiles them into PDFs. 
+* **📄 Save as PDF or Image:** Exports scanned documents as image files or compiles them into PDFs.  
 * **🖱️ Easy-to-use Interface:** Provides a simple GUI for a smooth user experience. 
 
 ## 🛠️ Tech Stack 
