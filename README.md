@@ -40,7 +40,7 @@ This is a Document Scanner application designed to detect and scan documents usi
     ```
 
 ## 📸 Screenshots 
-
+v 
 _(Screenshot will be added soon)_
 
 ## 💡 Future Improvements
