@@ -36,7 +36,7 @@ This is a Document Scanner application designed to detect and scan documents usi
 3.  **Run the app:**
 
     ```bash
-    python scanner_app.py
+    python scanner_app.py 
     ```
 
 ## 📸 Screenshots 
