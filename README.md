@@ -10,7 +10,7 @@ This is a Document Scanner application designed to detect and scan documents usi
 * **🎨 Image Enhancement:** Improves readability with various filters (grayscale, thresholding, etc.). 
 * **📄 Save as PDF or Image:** Exports scanned documents as image files or compiles them into PDFs.   
 * **🖱️ Easy-to-use Interface:** Provides a simple GUI for a smooth user experience. 
-
+ 
 ## 🛠️ Tech Stack   
 
 * Python
