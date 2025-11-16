@@ -15,7 +15,7 @@ This is a Document Scanner application designed to detect and scan documents usi
 
 * Python
 * OpenCV
-* Tkinter / PyQt (depending on GUI implementation) 
+* Tkinter / PyQt (depending on GUI implementation)  
 * NumPy 
 * Pillow (PIL)
 
