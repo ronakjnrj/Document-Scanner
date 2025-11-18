@@ -1,7 +1,7 @@
 # Document Scanner App 
 
 This is a Document Scanner application designed to detect and scan documents using your device's camera or image files. It automatically detects edges, crops the document area, applies perspective transformation, and enhances the image to create clean, high-quality scans, similar to a physical scanner.
- 
+  
 ## ✨ Features 
  
 * **📷 Capture or Upload:** Use your device camera or select an image from your gallery. 
