@@ -4,7 +4,7 @@ This is a Document Scanner application designed to detect and scan documents usi
   
 ## ✨ Features 
  
-* **📷 Capture or Upload:** Use your device camera or select an image from your gallery. 
+* **📷 Capture or Upload:** Use your device camera or select an image from your gallery.  
 * **📐 Automatic Edge Detection:** Detects document boundaries using OpenCV.
 * **🧠 Perspective Correction:** Corrects the document's angle for a professional-looking scan.
 * **🎨 Image Enhancement:** Improves readability with various filters (grayscale, thresholding, etc.). 
